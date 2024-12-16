@@ -1,43 +1,39 @@
-🌟 Hi There! I'm Anil Sukhlal Riswal 🌟
-Welcome to my GitHub profile! I'm an AI/ML/DS Engineer, passionate about backend development, machine learning, and data visualization. I enjoy collaborating with innovative teams and working on cutting-edge projects. 🚀
+# 👋 Hi! I'm Anil Sukhlal Riswal 👨‍💻
 
-🔧 Skills
-Programming Languages: Python, R, JavaScript
-Backend Development: Django, Flask
-Machine Learning & AI: TensorFlow, Keras, PyTorch
-Data Visualization: Matplotlib, Seaborn
-Cloud Services: AWS
-Tools & Technologies: Git, REST API, Docker
-🛠️ What I'm Working On
-Preparing for a Python Backend Developer Role
-Contributing to Data Science and AI Projects
-Continuously learning about Competitive Exams Preparation 📚
-📈 My Stats
+Passionate **Backend Developer**, **AI/ML Engineer**, and **Data Scientist**.
 
+🚀 Building scalable AI models and backend solutions to solve real-world problems.
 
-🌐 Connect with Me
-🔹 LinkedIn
-🔹 Twitter
-🔹 Kaggle
-🎨 My Visual Corner (Animated GIFs)
-Here are some animated images and cool visuals I've added to showcase my creativity:
+---
 
+## 🔍 **Skills**
+- **Languages:** Python, R, JavaScript  
+- **Backend:** Django, Flask, FastAPI  
+- **Machine Learning:** TensorFlow, PyTorch, Scikit-learn  
+- **Data Visualization:** Matplotlib, Seaborn  
+- **Tools:** Git, Docker, REST APIs, AWS  
+- **Concepts:** Scalability, Microservices, Computer Vision  
 
-Machine Learning in Action
+---
 
+## 🛠️ What I'm Currently Working On
+- 🚀 Preparing to land an awesome **Python Backend Developer** role.
+- 🤖 Contributing to projects focusing on **AI models** and **Data Visualization**.
+- 📝 Actively brushing up for **Competitive Exams**.
 
-Coding, creating, and innovating. 🔧
+---
 
+## 📊 My GitHub Stats
+[![Anil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)](https://github.com/yourusername)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername)](https://github.com/yourusername)
 
-My Backend Development workflow 🔄
+---
 
-🔍 My Goals
-🔄 Master Scalable Backend Architecture
-🤖 Work on cutting-edge AI & Data Science Projects
-📝 Continuously Prepare for Competitive Challenges
-⭐ Projects
-You’ll find me working on backend projects and AI models that focus on real-world applications like:
+## 🌐 Connect with Me!
+- 🔹 [LinkedIn](https://www.linkedin.com/in/yourprofile)
+- 🔹 [Twitter](https://twitter.com/yourprofile)
+- 🔹 [Kaggle](https://www.kaggle.com/yourprofile)
 
-Predictive Analytics
-Image Processing & Computer Vision Applications
-REST APIs built with Django and Flask
+---
+
+✨ Let's innovate together! Reach out, and let's build amazing things 🚀
